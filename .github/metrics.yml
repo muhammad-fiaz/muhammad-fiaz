@@ -1,0 +1,42 @@
+name: Metrics embed
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - "dev"
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate Metrics
+        uses: lowlighter/metrics@v3.32
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          user: muhammad-fiaz
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+          plugin_activity: yes
+          plugin_activity_visibility: public
+          plugin_activity_filter: all
+          plugin_followup: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_recent_days: 14
+          plugin_lines: yes
+          plugin_notable: yes
+          plugin_notable_from: all
+          plugin_repositories: yes
+          plugin_stars: yes
+          plugin_traffic: yes
