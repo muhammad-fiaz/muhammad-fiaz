@@ -27,8 +27,3 @@ Enjoy!
 <br>
 <br>
 
-[*GNU General Public License v3.0*](https://github.com/muhammad-fiaz/muhammad-fiaz/blob/main/LICENSE)
-
-*Copyright (c) 2022 Fiaz*
-
-*Designed and created by Muhammad Fiaz*
