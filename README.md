@@ -98,14 +98,13 @@
 <img src="./assets/borderseparator.gif" width="100%" alt="marginline"/>
 
 
-
 <div align="center">
   <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
   <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 
-  <h2> <strong>  ✍️ Random Dev Quote </strong></h2>
+  <h2> <strong>✍️ Random Dev Quote </strong></h2>
 <img src="./assets/borderseparator.gif" width="100%" alt="marginline"/>
-<p  style="animation: fadein 2s;">
+<p style="animation: fadein 2s;">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </p>
 </div>
