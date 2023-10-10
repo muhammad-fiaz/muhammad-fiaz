@@ -1,5 +1,3 @@
-
-
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/b436214e-3fee-460b-a217-80e2a083ff5d" align="middle" alt="Banner" width="100%"/>
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/36c5db23-fbc0-4980-87c3-6433bab6f82c" width="100%" alt="marginline"/>
 <div align="center">
@@ -8,6 +6,10 @@
   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/9fa4fca1-d147-4063-9459-219bf10144b7" width="1.75%" align="right" alt="flame2"/>
 </div>
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/36c5db23-fbc0-4980-87c3-6433bab6f82c" width="100%" alt="marginline"/>
+
+
+<img  src= "https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/d01ca106-49d4-428a-aef6-b08f711e3a72"  width="100%" alt="marginline"/>
+
 
 <div align="center"> 
 <p style="font-size: medium"><b>Profile Views</b></p>
