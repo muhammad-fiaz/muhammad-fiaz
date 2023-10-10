@@ -10,11 +10,14 @@
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/36c5db23-fbc0-4980-87c3-6433bab6f82c" width="100%" alt="marginline"/>
 
 <div align="center"> 
-  <p><b>Profile Views</b></p>
+<p style="font-size: medium"><b>Profile Views</b></p>
   <img src="https://profile-counter.glitch.me/muhammad-fiaz/count.svg"  alt="profile vistor count"/>
 </div>
+<br>
+<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/36c5db23-fbc0-4980-87c3-6433bab6f82c" width="100%" alt="marginline"/>
 
-<h2 align="center"> <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/9fa4fca1-d147-4063-9459-219bf10144b7" height="24px" alt="flame"/> Self-taught and passionate about coding! <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/9fa4fca1-d147-4063-9459-219bf10144b7" height="24px" alt="flame"/> </h2><br>
+<h2 align="center"> <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/9fa4fca1-d147-4063-9459-219bf10144b7" height="24px" alt="flame"/> Self-taught and passionate about coding! <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/9fa4fca1-d147-4063-9459-219bf10144b7" height="24px" alt="flame"/> </h2>
+<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/36c5db23-fbc0-4980-87c3-6433bab6f82c" width="100%" alt="marginline"/>
 
 <img align="right" src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/f6cf70de-6199-44d1-bb4c-cee4daddc24f" height="560px" alt="pixel city image">
 <p style="animation: fadein 2s; font-size: medium">
@@ -68,8 +71,9 @@ Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create ne
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/9fa4fca1-d147-4063-9459-219bf10144b7" width="16px" align="right"/>
   <h2> 🏆 My Github Stats </h2><br>
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/36c5db23-fbc0-4980-87c3-6433bab6f82c" width="100%" alt="marginline"/>
-
 <p  style="animation: fadein 2s;">
+  <br>
+
   <img src="https://github-profile-trophy.vercel.app/?username=muhammad-fiaz&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4"  alt="GitHub Trophies"/>
 </p>
  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-fiaz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"  width="49%" alt="GitHub Stats"/>
@@ -114,17 +118,23 @@ Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create ne
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </p>
 </div>
-<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/36c5db23-fbc0-4980-87c3-6433bab6f82c" width="100%" alt="marginline"/>
 
 <div align="center">
+  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/36c5db23-fbc0-4980-87c3-6433bab6f82c" width="100%" alt="marginline"/>
+
   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/9fa4fca1-d147-4063-9459-219bf10144b7" width="16px" align="left"/>
   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/9fa4fca1-d147-4063-9459-219bf10144b7" width="16px" align="right"/>
 
   <h2> <strong> 💰 You can help me improve more by a little support </strong></h2>
-<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/36c5db23-fbc0-4980-87c3-6433bab6f82c" width="100%" alt="marginline"/>
+  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/36c5db23-fbc0-4980-87c3-6433bab6f82c" width="100%" alt="marginline"/>
+  <br>
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/muhammadfiaz) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/muhammadfiaz) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/muhammadfiaz)
-[![Sponsor muhammad-fiaz](https://img.shields.io/badge/Sponsor-%231EAEDB.svg?&style=for-the-badge&logo=GitHub-Sponsors&logoColor=white)](https://github.com/sponsors/muhammad-fiaz)
-
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/muhammadfiaz) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/muhammadfiaz) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/muhammadfiaz)
+  [![Sponsor muhammad-fiaz](https://img.shields.io/badge/Sponsor-%231EAEDB.svg?&style=for-the-badge&logo=GitHub-Sponsors&logoColor=white)](https://github.com/sponsors/muhammad-fiaz)
 </div>
+  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/36c5db23-fbc0-4980-87c3-6433bab6f82c" width="100%" alt="marginline"/>
+<br>
+  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/0b20de3d-caf8-4b05-b69c-7b80377e0a40" width="48%" />
+  <img   align="right" src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/10e00c2e-8966-40ca-b198-253a636576a4" width="20%" />
+
 
