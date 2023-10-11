@@ -113,7 +113,8 @@ Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create ne
 
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=portfolio&theme=tokyonight)](https://github.com/muhammad-fiaz/portfolio)
 [![muhammad-fiaz](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=muhammad-fiaz&theme=tokyonight)](https://github.com/muhammad-fiaz/muhammad-fiaz)
-
+<br>
+[![Muhammad Fiaz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhammadfiaz)](https://github.com/muhammad-fiaz/)
 </div>
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/36c5db23-fbc0-4980-87c3-6433bab6f82c" width="100%" alt="marginline"/>
 
