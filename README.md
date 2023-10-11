@@ -78,34 +78,42 @@ Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create ne
 
   <img src="https://github-profile-trophy.vercel.app/?username=muhammad-fiaz&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4"  alt="GitHub Trophies"/>
 </p>
- <img src="https://github-readme-stats.vercel.app/api?username=muhammad-fiaz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"  width="49%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-fiaz&theme=tokyonight&hide_border=false"  width="49%"  alt="GitHub Streak"/><br/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-fiaz&theme=tokyonight&hide_border=false"   alt="GitHub Streak"/> <br>
 
+ <img src="https://github-readme-stats.vercel.app/api?username=muhammad-fiaz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"  width="49%" alt="GitHub Stats"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-fiaz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="39%" />
+
+<br/>
+<p  style="animation: fadein 2s;">
+  <img src="https://github-contributor-stats.vercel.app/api?username=muhammad-fiaz&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="48%" />
+</p>
 
 </div> 
 
 <div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammad-fiaz&bg_color=1a1b27&color=6999eb&line=7f7e84&point=70a5fd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Muhammad Fiaz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammad-fiaz&bg_color=1a1b27&color=6999eb&line=7f7e84&point=70a5fd&area=true&hide_border=true)](https://github.com/muhammad-fiaz/)
 
 </div>
+<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/36c5db23-fbc0-4980-87c3-6433bab6f82c" width="100%" alt="marginline"/>
 
+  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/ef0be683-186a-4d3b-aa32-f5a5ed8c37f1" width="100%" />
 
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/36c5db23-fbc0-4980-87c3-6433bab6f82c" width="100%" alt="marginline"/>
+
 <div align="center">
   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/9fa4fca1-d147-4063-9459-219bf10144b7" width="16px" align="left" alt="flame"/>
   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/9fa4fca1-d147-4063-9459-219bf10144b7" width="16px" align="right" alt="flame"/>
 
+
   <h2> <strong> 👨‍💻 My Works Stats </strong></h2>
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/36c5db23-fbc0-4980-87c3-6433bab6f82c" width="100%" alt="marginline"/>
   <br>
-<p  style="animation: fadein 2s;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-fiaz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-<strong><p>🔝 Top Contributed Repo</p>
-</strong>
-<img src="https://github-contributor-stats.vercel.app/api?username=muhammad-fiaz&limit=5&theme=dark&combine_all_yearly_contributions=true"  alt="Top Contributed Repo"/>
 
-</p>
+
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=portfolio&theme=tokyonight)](https://github.com/muhammad-fiaz/portfolio)
+[![muhammad-fiaz](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=muhammad-fiaz&theme=tokyonight)](https://github.com/muhammad-fiaz/muhammad-fiaz)
+
 </div>
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/36c5db23-fbc0-4980-87c3-6433bab6f82c" width="100%" alt="marginline"/>
 
