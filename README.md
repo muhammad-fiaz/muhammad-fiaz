@@ -152,6 +152,11 @@ Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create ne
 </div>
   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 <br>
+<div  align="center">
+<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/b1a50403-c00b-4159-8972-8812b77094e1" width="48%" />
+</div>
+<br>
+
   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/d1f6cc5c-2953-4981-b09a-95e6c8919933" width="48%" />
   <img   align="right" src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/ed52c517-611e-4647-9b35-acd001a287b9" width="20%" />
 
