@@ -17,9 +17,20 @@
 
 <div align="center"> 
 <p style="font-size: medium"><b>Profile Views</b></p>
-  <img src="https://profile-counter.glitch.me/muhammad-fiaz/count.svg"  alt="profile vistor count"/>
+  <img src="https://profile-counter.glitch.me/muhammad-fiaz/count.svg"  alt="profile vistor count"/><br><br>
+    <a href="https://github.com/muhammad-fiaz" target="_blank">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/muhammad-fiaz?label=Github%20followers&style=for-the-badge">
+</a>
+  <br>
 </div>
+
+
 <br>
+<img  src= "https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/0814cce9-e4c3-4c9c-b65c-1660906a67ef"  width="100%" alt="contribution"/>
+
+**note: the actual may vary*
+<br>
+
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 
 <h2 align="center"> <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" height="24px" alt="flame"/> Self-taught and passionate about coding! <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" height="24px" alt="flame"/> </h2>
@@ -145,7 +156,6 @@ Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create ne
   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="right"/>
 
   <h2> <strong> 💰 You can help me improve more by a little support </strong></h2>
-  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
   <br>
 
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/muhammadfiaz) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/muhammadfiaz) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/muhammadfiaz)
@@ -154,11 +164,27 @@ Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create ne
   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 <br>
 <div  align="center">
+
+  <img  src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/d1f6cc5c-2953-4981-b09a-95e6c8919933" width="48%" /> 
+  </div>
+  <br>
+  <p align="center" style="font-size:10px;"><strong>I love connecting with different people, so if you want to say hi, I'll be happy to meet you more! :)</strong></p>
+<br>
+<div  align="center">
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/b1a50403-c00b-4159-8972-8812b77094e1" width="48%" />
 </div>
 <br>
-
-  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/d1f6cc5c-2953-4981-b09a-95e6c8919933" width="48%" />
   <img   align="right" src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/ed52c517-611e-4647-9b35-acd001a287b9" width="20%" />
+
+<br>
+  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
+
+<div  align="center">
+
+<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/cc1aa5fc-1515-44b8-98db-dad730886796"  width="100%" />
+</div>
+  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
+
+
 
 
