@@ -101,7 +101,7 @@ Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create ne
 
   <img src="https://github-profile-trophy.vercel.app/?username=muhammad-fiaz&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4"  alt="GitHub Trophies"/>
 </p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-fiaz&theme=tokyonight&hide_border=false"   alt="GitHub Streak"/> <br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-fiaz&show_icons=true&theme=tokyonight&hide_border=false"   alt="GitHub Streak"/> <br>
 
  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-fiaz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"  width="49%" alt="GitHub Stats"/>
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-fiaz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="39%" />
