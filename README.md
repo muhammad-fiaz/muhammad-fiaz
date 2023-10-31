@@ -26,9 +26,7 @@
 
 
 <br>
-<img  src= "https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/0814cce9-e4c3-4c9c-b65c-1660906a67ef"  width="100%" alt="contribution"/>
 
-**note: the actual may vary*
 <br>
 
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
