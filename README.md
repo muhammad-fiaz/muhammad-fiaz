@@ -16,7 +16,6 @@
     <a href="https://github.com/muhammad-fiaz" target="_blank">
       
 [![Follow me on GitHub](https://img.shields.io/github/followers/muhammad-fiaz?label=Follow&style=social)](https://github.com/muhammad-fiaz)
-
 </a>
   <br>
 </div>
