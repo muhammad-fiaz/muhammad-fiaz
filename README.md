@@ -20,6 +20,14 @@
   <br>
 </div>
 <br>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/muhammad-fiaz/muhammad-fiaz/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/muhammad-fiaz/muhammad-fiaz/blob/output/github-contribution-grid-snake-light.svg" />
+    <img alt="github-snake" src="https://github.com/muhammad-fiaz/muhammad-fiaz/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
 <br>
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 
