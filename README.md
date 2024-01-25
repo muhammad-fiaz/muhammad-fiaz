@@ -18,6 +18,12 @@
 [![Follow me on GitHub](https://img.shields.io/github/followers/muhammad-fiaz?label=Follow&style=social)](https://github.com/muhammad-fiaz)
 </a>
   <br>
+    <br>
+
+  <a href="https://wakatime.com/@muhammadfiaz">
+  <img src="https://wakatime.com/badge/user/018b0e4a-91f9-4e8b-83fb-66d053611dc3.svg" alt="Wakatime Total Time Badge" />
+</a>
+<br>
 </div>
 <br>
 <div style="display: flex; justify-content: center; align-items: center;">
