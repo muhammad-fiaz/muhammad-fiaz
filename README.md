@@ -155,6 +155,7 @@ Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create ne
 [![muhammad-fiaz](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=flarezchat&theme=tokyonight)](https://github.com/muhammad-fiaz/flarezchat)
 [![muhammad-fiaz](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=logly-rs&theme=tokyonight)](https://github.com/muhammad-fiaz/logly-rs)
 [![muhammad-fiaz](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=QuizApp-Flutter&theme=tokyonight)](https://github.com/muhammad-fiaz/QuizApp-Flutter)
+[![muhammad-fiaz](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=WhatsApp-Flutter&theme=tokyonight)](https://github.com/muhammad-fiaz/WhatsApp-Flutter)
 
 <br>
 
