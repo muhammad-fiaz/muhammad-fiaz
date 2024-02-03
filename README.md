@@ -149,14 +149,19 @@ Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create ne
   <br>
 
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=portfolio&theme=tokyonight)](https://github.com/muhammad-fiaz/portfolio)
-[![muhammad-fiaz](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=muhammad-fiaz&theme=tokyonight)](https://github.com/muhammad-fiaz/muhammad-fiaz)
-[![muhammad-fiaz](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=logly&theme=tokyonight)](https://github.com/muhammad-fiaz/logly)
-[![muhammad-fiaz](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=flarezchat&theme=tokyonight)](https://github.com/muhammad-fiaz/flarezchat)
-[![muhammad-fiaz](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=logly-rs&theme=tokyonight)](https://github.com/muhammad-fiaz/logly-rs)
-[![muhammad-fiaz](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=QuizApp-Flutter&theme=tokyonight)](https://github.com/muhammad-fiaz/QuizApp-Flutter)
-[![muhammad-fiaz](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=WhatsApp-Flutter&theme=tokyonight)](https://github.com/muhammad-fiaz/WhatsApp-Flutter)
-[![muhammad-fiaz](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=FireAI&theme=tokyonight)](https://github.com/muhammad-fiaz/FireAI)
+<div align="center">
+
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=portfolio&theme=tokyonight)](https://github.com/muhammad-fiaz/portfolio) &nbsp;
+[![muhammad-fiaz](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=muhammad-fiaz&theme=tokyonight)](https://github.com/muhammad-fiaz/muhammad-fiaz) &nbsp;
+[![logly](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=logly&theme=tokyonight)](https://github.com/muhammad-fiaz/logly) &nbsp;
+[![flarezchat](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=flarezchat&theme=tokyonight)](https://github.com/muhammad-fiaz/flarezchat) &nbsp;
+[![logly-rs](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=logly-rs&theme=tokyonight)](https://github.com/muhammad-fiaz/logly-rs) &nbsp;
+[![QuizApp-Flutter](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=QuizApp-Flutter&theme=tokyonight)](https://github.com/muhammad-fiaz/QuizApp-Flutter) &nbsp;
+[![WhatsApp-Flutter](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=WhatsApp-Flutter&theme=tokyonight)](https://github.com/muhammad-fiaz/WhatsApp-Flutter) &nbsp;
+[![FireAI](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=FireAI&theme=tokyonight)](https://github.com/muhammad-fiaz/FireAI) &nbsp;
+[![FZPlayer](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=FZPlayer&theme=tokyonight)](https://github.com/muhammad-fiaz/FZPlayer)
+
+</div>
 
 <br>
 
