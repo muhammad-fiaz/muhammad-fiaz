@@ -160,6 +160,7 @@ Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create ne
 [![WhatsApp-Flutter](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=WhatsApp-Flutter&theme=tokyonight)](https://github.com/muhammad-fiaz/WhatsApp-Flutter) &nbsp;
 [![FireAI](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=FireAI&theme=tokyonight)](https://github.com/muhammad-fiaz/FireAI) &nbsp;
 [![FZPlayer](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=FZPlayer&theme=tokyonight)](https://github.com/muhammad-fiaz/FZPlayer)
+[![mCloudApp](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=mCloudApp&theme=tokyonight)](https://github.com/muhammad-fiaz/mCloudApp)
 
 </div>
 
