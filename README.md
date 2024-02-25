@@ -65,6 +65,7 @@ Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create ne
 [![Google Developer](https://img.shields.io/badge/Developer-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/muhammad_fiaz)
 [![OpenSauced](https://img.shields.io/badge/Open%20Sauced%20Pizza-%23FFD700.svg?style=for-the-badge)](https://app.opensauced.pizza/user/muhammad-fiaz?tab=contributions)
 [![WakaTime](https://img.shields.io/badge/WakaTime-%23107C10.svg?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@muhammadfiaz)
+[![Hashnode](https://img.shields.io/badge/hashnode-%231A2634.svg?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@muhammadfiaz)
 
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 
