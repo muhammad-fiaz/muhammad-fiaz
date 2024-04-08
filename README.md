@@ -183,7 +183,7 @@ Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create ne
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </p>
 </div>
-
+<br>
 <div align="center">
   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 
@@ -220,5 +220,3 @@ Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create ne
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/cc1aa5fc-1515-44b8-98db-dad730886796"  width="100%" />
 </div>
   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
-
-
