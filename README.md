@@ -206,7 +206,7 @@ Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create ne
   <img  src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/d1f6cc5c-2953-4981-b09a-95e6c8919933" width="48%" /> 
   </div>
   <br>
-  <p align="center" style="font-size:10px;"><strong>I love connecting with different people, so if you want to say hi, I'll be happy to meet you more! :)</strong></p>
+  <p align="center" style="font-size:10px;"><strong>I love connecting with different people, so if you want to say hi, I'll be happy to meet you more frnd! :)</strong></p>
 <br>
 <div  align="center">
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/b1a50403-c00b-4159-8972-8812b77094e1" width="48%" />
