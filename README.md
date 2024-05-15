@@ -88,9 +88,21 @@ Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create ne
 
 <br>
 <div align="center">
+<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="left"/>
+<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="right"/>
+  <h2> 😎 My DevCard </h2><br>
+<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
+<br>
+  
+<a href="https://app.daily.dev/muhammadfiaz"><img src="https://api.daily.dev/devcards/v2/JVyK3ICBzKPdM0rcDj1o4.png?type=wide&r=dg5" width="652" alt="Muhammad Fiaz's Dev Card"/></a>
+  
+</div> 
+<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
+
+<br>
+<div align="center">
   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/88d74967-e5e4-4423-836a-7f3c1638e5b4" alt="pixel guy using computer" width="100%" /><br>
 </div>
-
 <div align="center">
 
 <h2 align="center"> <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" height="24px" alt="flame"/> My Tech Stacks! <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" height="24px" alt="flame"/> </h2>
