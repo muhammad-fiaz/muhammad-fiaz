@@ -71,7 +71,7 @@ Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create ne
     <a href="https://discord.gg/uRkZ5cHf" target="_blank">
 <img
   src="https://dcbadge.limes.pink/api/server/https://discord.gg/uRkZ5cHf"
-  alt="discord invite"
+  alt="join discord server"
 />
 </a>
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
