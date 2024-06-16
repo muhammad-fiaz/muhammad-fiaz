@@ -240,3 +240,5 @@ Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create ne
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/cc1aa5fc-1515-44b8-98db-dad730886796"  width="100%" />
 </div>
   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
+  
+  ![Metrics](https://metrics.lecoq.io/muhammad-fiaz?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FCalcutta)
