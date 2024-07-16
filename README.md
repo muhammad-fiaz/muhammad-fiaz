@@ -68,12 +68,8 @@ Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create ne
 [![Hashnode](https://img.shields.io/badge/hashnode-%231A2634.svg?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@muhammadfiaz)
 [![Dribbble](https://img.shields.io/badge/dribbble-%23ea4c89.svg?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/muhammadfiaz)
 [![Linktree](https://img.shields.io/badge/linktree-%231ca0f1.svg?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Muhammad_Fiaz)
-    <a href="https://discord.gg/uRkZ5cHf" target="_blank">
-<img
-  src="https://dcbadge.limes.pink/api/server/https://discord.gg/uRkZ5cHf"
-  alt="join discord server"
-/>
-</a>
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ShaDFdZ7)
+
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 
 </div>
