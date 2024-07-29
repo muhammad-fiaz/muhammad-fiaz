@@ -177,7 +177,7 @@ Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create ne
 [![FireAI](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=FireAI&theme=tokyonight)](https://github.com/muhammad-fiaz/FireAI) &nbsp;
 [![FZPlayer](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=FZPlayer&theme=tokyonight)](https://github.com/muhammad-fiaz/FZPlayer)
 [![mCloudApp](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=mCloudApp&theme=tokyonight)](https://github.com/muhammad-fiaz/mCloudApp)
-[![projects](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=projects&theme=tokyonight)](https://github.com/muhammad-fiaz/Projects)
+
 
 </div>
 
