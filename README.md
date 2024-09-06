@@ -151,14 +151,14 @@ Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create ne
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-fiaz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
     media="(prefers-color-scheme: dark)"
-    width="35%"
+    width="36%"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-fiaz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    width="35%"
+    width="36%"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-fiaz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="35%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-fiaz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="36%" />
 </picture>
 
 <br/>
