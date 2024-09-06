@@ -124,6 +124,9 @@ Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create ne
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="left"/>
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="right"/>
   <h2> 🏆 My Github Stats </h2><br>
+
+
+
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 <p  style="animation: fadein 2s;">
   <br>
@@ -133,9 +136,30 @@ Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create ne
   <img align="center" src="https://streak-stats.demolab.com?user=muhammad-fiaz&theme=tokyonight"   alt="GitHub Streak"/>
     
   <br>
-
- <img src="https://github-readme-stats.vercel.app/api?username=muhammad-fiaz&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true"  width="49%" alt="GitHub Stats"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-fiaz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="39%" />
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=muhammad-fiaz&show_icons=true&theme=tokyonight&count_private=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=muhammad-fiaz&show_icons=true&theme=tokyonight&count_private=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammad-fiaz&show_icons=true&theme=tokyonight&count_private=true" />
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-fiaz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+    media="(prefers-color-scheme: dark)"
+    width="35%"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-fiaz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    width="35%"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-fiaz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="35%" />
+</picture>
 
 <br/>
 <p  style="animation: fadein 2s;">
