@@ -173,13 +173,83 @@ Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create ne
 [![Muhammad Fiaz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammad-fiaz&bg_color=1a1b27&color=6999eb&line=7f7e84&point=70a5fd&area=true&hide_border=true)](https://github.com/muhammad-fiaz/)
 
 </div>
+
+
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 
   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/b82b27ff-26ed-498b-b8ca-bd575e5c62a9" width="100%" />
 
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
-
 <div align="center">
+  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="left" alt="flame"/>
+  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="right" alt="flame"/>
+
+
+  <h2> <strong> 🖥️ Open-Source Projects </strong></h2>
+<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
+  <br>
+
+<table>
+<tr><th>Web Projects</th><th>AI/ML Projects</th></tr>
+<tr><td>
+
+| Title | Stars | Technologies |
+|-------|-------|--------------|
+| [Portfolio](https://github.com/muhammad-fiaz/portfolio) | ![Stars](https://img.shields.io/github/stars/muhammad-fiaz/portfolio?style=flat-square&labelColor=black) | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs) ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) |
+| [Devfolio](https://github.com/muhammad-fiaz/Devfolio) | ![Stars](https://img.shields.io/github/stars/muhammad-fiaz/Devfolio?style=flat-square&labelColor=black) | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js) | MIT |
+
+</td><td>
+
+| Title | Stars | Technologies |
+|-------|-------|--------------|
+| [EMSUGI](https://github.com/muhammad-fiaz/EMSUGI) | ![Stars](https://img.shields.io/github/stars/muhammad-fiaz/EMSUGI?style=flat-square&labelColor=black) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask) ![pandas](https://img.shields.io/badge/pandas-black?style=flat-square&logo=pandas) ![matplotlib](https://img.shields.io/badge/matplotlib-black?style=flat-square&logo=matplotlib) ![torch](https://img.shields.io/badge/Torch-black?style=flat-square&logo=pytorch) ![transformers](https://img.shields.io/badge/Transformers-black?style=flat-square&logo=huggingface) |
+| [GemGPT](https://github.com/muhammad-fiaz/gemgpt) | ![Stars](https://img.shields.io/github/stars/muhammad-fiaz/gemgpt?style=flat-square&labelColor=black) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Gradio](https://img.shields.io/badge/Gradio-black?style=flat-square&logo=gradio) ![Transformers](https://img.shields.io/badge/Transformers-black?style=flat-square&logo=transformers) ![LLM](https://img.shields.io/badge/LLM-black?style=flat-square&logo=artificial-intelligence) |
+
+</td></tr>
+<tr><th>Mobile Application Projects</th><th>Cross-Platform Projects</th></tr>
+<tr><td>
+
+| Title | Stars | Technologies |
+|-------|-------|--------------|
+| [FZPlayer](https://github.com/muhammad-fiaz/FZPlayer) | ![Stars](https://img.shields.io/github/stars/muhammad-fiaz/FZPlayer?style=flat-square&labelColor=black) | ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java) ![JetBrains](https://img.shields.io/badge/JetBrains-black?style=flat-square&logo=jetbrains) |
+
+</td><td>
+
+| Title | Stars | Technologies |
+|-------|-------|--------------|
+| [QuizApp-Flutter](https://github.com/muhammad-fiaz/QuizApp-Flutter) | ![Stars](https://img.shields.io/github/stars/muhammad-fiaz/QuizApp-Flutter?style=flat-square&labelColor=black) | ![Flutter](https://img.shields.io/badge/Flutter-black?style=flat-square&logo=flutter) |
+| [Maaagic UI](https://github.com/muhammad-fiaz/MaaagicUI) | ![Stars](https://img.shields.io/github/stars/muhammad-fiaz/MaaagicUI?style=flat-square&labelColor=black) | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs) ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) ![Rust](https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust) ![Tauri](https://img.shields.io/badge/Tauri-black?style=flat-square&logo=tauri) |
+| [WhatsApp-Flutter](https://github.com/muhammad-fiaz/WhatsApp-Flutter) | ![Stars](https://img.shields.io/github/stars/muhammad-fiaz/WhatsApp-Flutter?style=flat-square&labelColor=black) | ![Flutter](https://img.shields.io/badge/Flutter-black?style=flat-square&logo=flutter) |
+| [mCloudApp](https://github.com/muhammad-fiaz/mCloudApp) | ![Stars](https://img.shields.io/github/stars/muhammad-fiaz/mCloudApp?style=flat-square&labelColor=black) | ![Flutter](https://img.shields.io/badge/Flutter-black?style=flat-square&logo=flutter) |
+| [Calculator](https://github.com/muhammad-fiaz/calculator) | ![Stars](https://img.shields.io/github/stars/muhammad-fiaz/calculator?style=flat-square&labelColor=black) | ![Flutter](https://img.shields.io/badge/Flutter-black?style=flat-square&logo=flutter) |
+| [Fuzz App](https://github.com/muhammad-fiaz/FuzzApp) | ![Stars](https://img.shields.io/github/stars/muhammad-fiaz/FuzzApp?style=flat-square&labelColor=black) | ![Flutter](https://img.shields.io/badge/Flutter-black?style=flat-square&logo=flutter) |
+
+</td></tr>
+<tr><th>Package/Library Projects</th><th></th></tr>
+<tr><td>
+
+| Title | Stars | Technologies |
+|-------|-------|--------------|
+| [Logly](https://github.com/muhammad-fiaz/logly) | ![Stars](https://img.shields.io/github/stars/muhammad-fiaz/logly?style=flat-square&labelColor=black) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) |
+| [Logly-RS](https://github.com/muhammad-fiaz/logly-rs) | ![Stars](https://img.shields.io/github/stars/muhammad-fiaz/logly-rs?style=flat-square&labelColor=black) | ![Rust](https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust) |
+| [Next.js Starter Boilerplate](https://github.com/muhammad-fiaz/create-nextjs-app) | ![Stars](https://img.shields.io/github/stars/muhammad-fiaz/create-nextjs-app?style=flat-square&labelColor=black) | ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-black?style=flat-square&logo=tailwindcss) ![ESLint](https://img.shields.io/badge/ESLint-black?style=flat-square&logo=eslint) |
+| [CheckVersions](https://github.com/muhammad-fiaz/CheckVersions) | ![Stars](https://img.shields.io/github/stars/muhammad-fiaz/CheckVersions?style=flat-square&labelColor=black) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![PyPI](https://img.shields.io/badge/PyPI-black?style=flat-square&logo=pypi) |
+| [Setups Python](https://github.com/muhammad-fiaz/Setups-Python) | ![Stars](https://img.shields.io/github/stars/muhammad-fiaz/Setups-Python?style=flat-square&labelColor=black) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![PyPI](https://img.shields.io/badge/PyPI-black?style=flat-square&logo=pypi) |
+| [Keepsafe](https://github.com/muhammad-fiaz/Keepsafe) | ![Stars](https://img.shields.io/github/stars/muhammad-fiaz/Keepsafe?style=flat-square&labelColor=black) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![PyPI](https://img.shields.io/badge/PyPI-black?style=flat-square&logo=pypi) |
+
+</td><td>
+
+</td></tr>
+</table>
+      <p>For more information, check out the <a href="https://github.com/muhammad-fiaz?tab=repositories" target="_blank">Repositories</a>.</p>
+
+
+
+
+</div>
+<div align="center">
+  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
+
   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="left" alt="flame"/>
   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="right" alt="flame"/>
 
@@ -189,21 +259,7 @@ Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create ne
   <br>
 
 
-<div align="center">
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=portfolio&theme=tokyonight)](https://github.com/muhammad-fiaz/portfolio) &nbsp;
-[![muhammad-fiaz](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=muhammad-fiaz&theme=tokyonight)](https://github.com/muhammad-fiaz/muhammad-fiaz) &nbsp;
-[![logly](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=logly&theme=tokyonight)](https://github.com/muhammad-fiaz/logly) &nbsp;
-[![flarezchat](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=flarezchat&theme=tokyonight)](https://github.com/muhammad-fiaz/flarezchat) &nbsp;
-[![logly-rs](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=logly-rs&theme=tokyonight)](https://github.com/muhammad-fiaz/logly-rs) &nbsp;
-[![QuizApp-Flutter](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=QuizApp-Flutter&theme=tokyonight)](https://github.com/muhammad-fiaz/QuizApp-Flutter) &nbsp;
-[![WhatsApp-Flutter](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=WhatsApp-Flutter&theme=tokyonight)](https://github.com/muhammad-fiaz/WhatsApp-Flutter) &nbsp;
-[![FireAI](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=FireAI&theme=tokyonight)](https://github.com/muhammad-fiaz/FireAI) &nbsp;
-[![FZPlayer](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=FZPlayer&theme=tokyonight)](https://github.com/muhammad-fiaz/FZPlayer)
-[![mCloudApp](https://github-readme-stats.vercel.app/api/pin/?username=muhammad-fiaz&repo=mCloudApp&theme=tokyonight)](https://github.com/muhammad-fiaz/mCloudApp)
-
-
-</div>
 
 <br>
 
@@ -229,7 +285,7 @@ Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create ne
   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="left"/>
   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="right"/>
 
-  <h2> <strong> 💰 You can help this improve more by donation❤️</strong></h2>
+  <h2> <strong> 💰 You can help this improve more by simple donation❤️</strong></h2>
   <br>
 
 
