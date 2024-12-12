@@ -62,7 +62,7 @@ Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create ne
   <h2> 🐱 Pets!!! </h2><br>
 <br>
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{muhammad-fiaz}" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/{muhammad-fiaz}" width="1000" height="500"/>
 </a>
 </div>
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
