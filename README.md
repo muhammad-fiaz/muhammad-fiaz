@@ -61,7 +61,7 @@ Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create ne
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="right"/>
   <h2> 🐱 Pets!!! </h2><br>
 <br>
-<a href="https://github.com/devxb/gitanimals">
+<a href="https://github.com/muhammad-fiaz">
   <img src="https://render.gitanimals.org/lines/{muhammad-fiaz}" width="1000" height="500"/>
 </a>
 </div>
@@ -204,15 +204,17 @@ Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create ne
   <br>
 
 <table>
-<tr><th>Web Projects</th><th>AI/ML Projects</th></tr>
+<tr><th>Web Projects</th></tr>
 <tr><td>
 
 | Title | Stars | Technologies |
 |-------|-------|--------------|
 | [Portfolio](https://github.com/muhammad-fiaz/portfolio) | ![Stars](https://img.shields.io/github/stars/muhammad-fiaz/portfolio?style=flat-square&labelColor=black) | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs) ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript) |
-| [Devfolio](https://github.com/muhammad-fiaz/Devfolio) | ![Stars](https://img.shields.io/github/stars/muhammad-fiaz/Devfolio?style=flat-square&labelColor=black) | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js) | MIT |
+| [Devfolio](https://github.com/muhammad-fiaz/Devfolio) | ![Stars](https://img.shields.io/github/stars/muhammad-fiaz/Devfolio?style=flat-square&labelColor=black) | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js) |
 
-</td><td>
+</td></tr>
+<tr><th>AI/ML Projects</th></tr>
+<tr><td>
 
 | Title | Stars | Technologies |
 |-------|-------|--------------|
@@ -220,14 +222,16 @@ Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create ne
 | [GemGPT](https://github.com/muhammad-fiaz/gemgpt) | ![Stars](https://img.shields.io/github/stars/muhammad-fiaz/gemgpt?style=flat-square&labelColor=black) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Gradio](https://img.shields.io/badge/Gradio-black?style=flat-square&logo=gradio) ![Transformers](https://img.shields.io/badge/Transformers-black?style=flat-square&logo=transformers) ![LLM](https://img.shields.io/badge/LLM-black?style=flat-square&logo=artificial-intelligence) |
 
 </td></tr>
-<tr><th>Mobile Application Projects</th><th>Cross-Platform Projects</th></tr>
+<tr><th>Mobile Application Projects</th></tr>
 <tr><td>
 
 | Title | Stars | Technologies |
 |-------|-------|--------------|
 | [FZPlayer](https://github.com/muhammad-fiaz/FZPlayer) | ![Stars](https://img.shields.io/github/stars/muhammad-fiaz/FZPlayer?style=flat-square&labelColor=black) | ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=java) ![JetBrains](https://img.shields.io/badge/JetBrains-black?style=flat-square&logo=jetbrains) |
 
-</td><td>
+</td></tr>
+<tr><th>Cross-Platform Projects</th></tr>
+<tr><td>
 
 | Title | Stars | Technologies |
 |-------|-------|--------------|
@@ -239,7 +243,7 @@ Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create ne
 | [Fuzz App](https://github.com/muhammad-fiaz/FuzzApp) | ![Stars](https://img.shields.io/github/stars/muhammad-fiaz/FuzzApp?style=flat-square&labelColor=black) | ![Flutter](https://img.shields.io/badge/Flutter-black?style=flat-square&logo=flutter) |
 
 </td></tr>
-<tr><th>Package/Library Projects</th><th></th></tr>
+<tr><th>Package/Library Projects</th></tr>
 <tr><td>
 
 | Title | Stars | Technologies |
@@ -251,11 +255,10 @@ Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create ne
 | [Setups Python](https://github.com/muhammad-fiaz/Setups-Python) | ![Stars](https://img.shields.io/github/stars/muhammad-fiaz/Setups-Python?style=flat-square&labelColor=black) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![PyPI](https://img.shields.io/badge/PyPI-black?style=flat-square&logo=pypi) |
 | [Keepsafe](https://github.com/muhammad-fiaz/Keepsafe) | ![Stars](https://img.shields.io/github/stars/muhammad-fiaz/Keepsafe?style=flat-square&labelColor=black) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![PyPI](https://img.shields.io/badge/PyPI-black?style=flat-square&logo=pypi) |
 
-</td><td>
-
 </td></tr>
 </table>
-      <p>For more information, check out the <a href="https://github.com/muhammad-fiaz?tab=repositories" target="_blank">Repositories</a>.</p>
+
+  <p>For more information, check out the <a href="https://github.com/muhammad-fiaz?tab=repositories" target="_blank">Repositories</a>.</p>
 
 
 
