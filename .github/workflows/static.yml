@@ -15,29 +15,35 @@ permissions:
   pages: write
   id-token: write
 
-# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
-# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+# Allow only one concurrent deployment
 concurrency:
   group: "pages"
   cancel-in-progress: false
 
 jobs:
-  # Single deploy job since we're just deploying
+  # Single deploy job for deploying static site
   deploy:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
+      # Step 1: Checkout the repository
       - name: Checkout
         uses: actions/checkout@v4
+
+      # Step 2: Configure GitHub Pages
       - name: Setup Pages
         uses: actions/configure-pages@v5
+
+      # Step 3: Upload the `/docs` folder as the artifact for deployment
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # Upload entire repository
-          path: '.'
+          # Specify the `/docs` folder for deployment
+          path: './docs'
+
+      # Step 4: Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
