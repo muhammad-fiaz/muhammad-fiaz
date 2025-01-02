@@ -1,49 +1,50 @@
-# Simple workflow for deploying static content to GitHub Pages
-name: Deploy static content to Pages
+# Workflow to deploy README.md to GitHub Pages
+name: Deploy README to Pages
 
 on:
-  # Runs on pushes targeting the default branch
+  # Runs on pushes to the default branch
   push:
     branches: ["main"]
 
-  # Allows you to run this workflow manually from the Actions tab
+  # Allows running manually
   workflow_dispatch:
 
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: read
   pages: write
   id-token: write
 
-# Allow only one concurrent deployment
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
-
 jobs:
-  # Single deploy job for deploying static site
   deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
+
     steps:
       # Step 1: Checkout the repository
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      # Step 2: Configure GitHub Pages
+      # Step 2: Ensure the /docs directory exists
+      - name: Create /docs directory
+        run: |
+          mkdir -p ./docs
+
+      # Step 3: Copy README.md to /docs/<repo-name>
+      - name: Copy README.md to /docs/<repo-name>
+        run: |
+          repo_name=$(basename $(git rev-parse --show-toplevel))
+          mkdir -p ./docs/$repo_name
+          cp ./README.md ./docs/$repo_name/index.md
+
+      # Step 4: Configure GitHub Pages
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
-      # Step 3: Upload the `/docs` folder as the artifact for deployment
+      # Step 5: Upload /docs for deployment
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # Specify the `/docs` folder for deployment
           path: './docs'
 
-      # Step 4: Deploy to GitHub Pages
+      # Step 6: Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
-        id: deployment
         uses: actions/deploy-pages@v4
