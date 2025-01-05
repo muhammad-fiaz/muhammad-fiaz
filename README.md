@@ -73,19 +73,46 @@ Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create ne
   <h2> 🔥Social Networks! </h2><br>
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-fiaz-/)
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@muhammad-fiaz)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/muhammadfiaz_)
-[![Codepen](https://img.shields.io/badge/Codepen-%23000000.svg?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/muhammadfiaz)
-[![Dev.to](https://img.shields.io/badge/Dev.to-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/muhammadfiaz)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammad-fiaz)
-[![Google Developer](https://img.shields.io/badge/Developer-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/muhammad_fiaz)
-[![OpenSauced](https://img.shields.io/badge/Open%20Sauced%20Pizza-%23FFD700.svg?style=for-the-badge)](https://app.opensauced.pizza/user/muhammad-fiaz?tab=contributions)
-[![WakaTime](https://img.shields.io/badge/WakaTime-%23107C10.svg?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@muhammadfiaz)
-[![Hashnode](https://img.shields.io/badge/hashnode-%231A2634.svg?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@muhammadfiaz)
-[![Dribbble](https://img.shields.io/badge/dribbble-%23ea4c89.svg?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/muhammadfiaz)
-[![Linktree](https://img.shields.io/badge/linktree-%231ca0f1.svg?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Muhammad_Fiaz)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Wu7Kcpz9)
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-fiaz-/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://medium.com/@muhammad-fiaz" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+</a>
+<a href="https://twitter.com/muhammadfiaz_" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+</a>
+<a href="https://codepen.io/muhammadfiaz" target="_blank">
+  <img src="https://img.shields.io/badge/Codepen-%23000000.svg?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen" />
+</a>
+<a href="https://dev.to/muhammadfiaz" target="_blank">
+  <img src="https://img.shields.io/badge/Dev.to-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+</a>
+<a href="https://github.com/muhammad-fiaz" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://g.dev/muhammad_fiaz" target="_blank">
+  <img src="https://img.shields.io/badge/Developer-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer" />
+</a>
+<a href="https://app.opensauced.pizza/user/muhammad-fiaz?tab=contributions" target="_blank">
+  <img src="https://img.shields.io/badge/Open%20Sauced%20Pizza-%23FFD700.svg?style=for-the-badge" alt="OpenSauced" />
+</a>
+<a href="https://wakatime.com/@muhammadfiaz" target="_blank">
+  <img src="https://img.shields.io/badge/WakaTime-%23107C10.svg?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime" />
+</a>
+<a href="https://hashnode.com/@muhammadfiaz" target="_blank">
+  <img src="https://img.shields.io/badge/hashnode-%231A2634.svg?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
+</a>
+<a href="https://dribbble.com/muhammadfiaz" target="_blank">
+  <img src="https://img.shields.io/badge/dribbble-%23ea4c89.svg?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" />
+</a>
+<a href="https://linktr.ee/Muhammad_Fiaz" target="_blank">
+  <img src="https://img.shields.io/badge/linktree-%231ca0f1.svg?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
+</a>
+<a href="https://discord.gg/Wu7Kcpz9" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+
 
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 
