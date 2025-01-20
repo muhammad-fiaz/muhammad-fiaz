@@ -176,9 +176,11 @@ Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create ne
 
   <img src="https://github-profile-trophy.vercel.app/?username=muhammad-fiaz&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4"  alt="GitHub Trophies"/>
 </p>
+  <div>
     <a href="https://github.com/muhammad-fiaz">
-  <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=muhammad-fiaz&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="100%" />
-</a>
+      <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=muhammad-fiaz&theme=tokyonight" alt="GitHub Streak" style="margin-top: 20px;"/>
+    </a>
+  </div>
   <br>
 <picture>
   <source
