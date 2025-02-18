@@ -376,7 +376,7 @@ Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create ne
 
 <div  align="center">
 
-<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/cc1aa5fc-1515-44b8-98db-dad730886796"  width="100%" />
+<img src="https://github.com/user-attachments/assets/ef037db2-1e63-4781-89d8-0b94e6eed88e"  width="100%" />
 </div>
   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
   
