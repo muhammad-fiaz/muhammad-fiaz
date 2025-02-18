@@ -350,9 +350,6 @@ Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create ne
 
   <p><strong>Technology, innovation, and collaboration drive me forward! 🚀 I love meeting new people, sharing ideas, and working on exciting projects. If you ever want to chat, discuss ideas, or collaborate, feel free to reach out—I'd love to connect! 😊</strong></p>
 
-  <br>
-
-  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/b1a50403-c00b-4159-8972-8812b77094e1" width="48%" />
 
 </div>
 <div align="center">
@@ -367,7 +364,10 @@ Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create ne
     <img src="https://img.shields.io/badge/Join_Squad-%2300C4CC.svg?&style=for-the-badge&logo=daily.dev&logoColor=white" alt="Join daily.dev">
   </a>
 <br>
-  <img   align="right" src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/ed52c517-611e-4647-9b35-acd001a287b9" width="20%" />
+<br>
+<br>
+  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/b1a50403-c00b-4159-8972-8812b77094e1" width="48%" />
+
 
 </div>
 <br>
