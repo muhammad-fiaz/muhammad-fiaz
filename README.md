@@ -12,7 +12,8 @@
 
 <div align="center"> 
 <p style="font-size: medium"><b>Profile Views</b></p>
-  <img src="https://profile-counter.glitch.me/muhammad-fiaz/count.svg" alt="profile vistor count"/><br><br>
+<img src="https://komarev.com/ghpvc/?username=muhammadfiaz" alt="GitHub profile views" />
+<br><br>
 <a href="https://github.com/muhammad-fiaz" target="_blank">
   <img src="https://img.shields.io/github/followers/muhammad-fiaz?label=Follow&style=social" alt="Follow me on GitHub" />
 </a>
