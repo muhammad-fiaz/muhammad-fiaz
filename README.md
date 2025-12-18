@@ -66,56 +66,6 @@ Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create ne
 </div>
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 
-<div align="center">
-  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="left"/>
-<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="right"/>
-  <h2> 🔥Social Networks! </h2><br>
-<br>
-
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-fiaz-/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://medium.com/@muhammad-fiaz" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-</a>
-<a href="https://twitter.com/muhammadfiaz_" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
-</a>
-<a href="https://codepen.io/muhammadfiaz" target="_blank">
-  <img src="https://img.shields.io/badge/Codepen-%23000000.svg?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen" />
-</a>
-<a href="https://dev.to/muhammadfiaz" target="_blank">
-  <img src="https://img.shields.io/badge/Dev.to-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
-</a>
-<a href="https://github.com/muhammad-fiaz" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://g.dev/muhammad_fiaz" target="_blank">
-  <img src="https://img.shields.io/badge/Developer-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer" />
-</a>
-<a href="https://app.opensauced.pizza/user/muhammad-fiaz?tab=contributions" target="_blank">
-  <img src="https://img.shields.io/badge/Open%20Sauced%20Pizza-%23FFD700.svg?style=for-the-badge" alt="OpenSauced" />
-</a>
-<a href="https://wakatime.com/@muhammadfiaz" target="_blank">
-  <img src="https://img.shields.io/badge/WakaTime-%23107C10.svg?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime" />
-</a>
-<a href="https://hashnode.com/@muhammadfiaz" target="_blank">
-  <img src="https://img.shields.io/badge/hashnode-%231A2634.svg?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
-</a>
-<a href="https://dribbble.com/muhammadfiaz" target="_blank">
-  <img src="https://img.shields.io/badge/dribbble-%23ea4c89.svg?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" />
-</a>
-<a href="https://linktr.ee/Muhammad_Fiaz" target="_blank">
-  <img src="https://img.shields.io/badge/linktree-%231ca0f1.svg?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
-</a>
-<a href="https://discord.gg/Wu7Kcpz9" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-</a>
-
-
-<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
-
-</div>
 <br>
 <div align="center">
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="left"/>
@@ -224,78 +174,6 @@ Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create ne
 
   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/b82b27ff-26ed-498b-b8ca-bd575e5c62a9" width="100%" />
 
-<div align="center">
-  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="left" alt="flame"/>
-  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="right" alt="flame"/>
-
-
-  <h2> <strong> 🖥️ Open-Source Projects </strong></h2>
-  <br>
-<div align="center">
-
-<table >
-<tr><th>Web Projects</th></tr>
-<tr><td>
-
-| Title | Stars | Technologies |
-|-------|-------|--------------|
-| <a href="https://github.com/muhammad-fiaz/portfolio">Portfolio</a> | <img src="https://img.shields.io/github/stars/muhammad-fiaz/portfolio?style=flat-square&amp;labelColor=black" alt="Stars"> | <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&amp;logo=nextdotjs" alt="Next.js"> <img src="https://img.shields.io/badge/TypeScript-black?style=flat-square&amp;logo=typescript" alt="TypeScript"> |
-| <a href="https://github.com/muhammad-fiaz/Devfolio">Devfolio</a> | <img src="https://img.shields.io/github/stars/muhammad-fiaz/Devfolio?style=flat-square&amp;labelColor=black" alt="Stars"> | <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&amp;logo=next.js" alt="Next.js"> |
-
-</td></tr>
-<tr><th>AI/ML Projects</th></tr>
-<tr><td>
-
-| Title | Stars | Technologies |
-|-------|-------|--------------|
-| <a href="https://github.com/muhammad-fiaz/EMSUGI">EMSUGI</a> | <img src="https://img.shields.io/github/stars/muhammad-fiaz/EMSUGI?style=flat-square&amp;labelColor=black" alt="Stars"> | <img src="https://img.shields.io/badge/Python-black?style=flat-square&amp;logo=python" alt="Python"> <img src="https://img.shields.io/badge/Flask-black?style=flat-square&amp;logo=flask" alt="Flask"> <img src="https://img.shields.io/badge/pandas-black?style=flat-square&amp;logo=pandas" alt="pandas"> <img src="https://img.shields.io/badge/matplotlib-black?style=flat-square&amp;logo=matplotlib" alt="matplotlib"> <img src="https://img.shields.io/badge/Torch-black?style=flat-square&amp;logo=pytorch" alt="torch"> <img src="https://img.shields.io/badge/Transformers-black?style=flat-square&amp;logo=huggingface" alt="transformers"> |
-| <a href="https://github.com/muhammad-fiaz/gemgpt">GemGPT</a> | <img src="https://img.shields.io/github/stars/muhammad-fiaz/gemgpt?style=flat-square&amp;labelColor=black" alt="Stars"> | <img src="https://img.shields.io/badge/Python-black?style=flat-square&amp;logo=python" alt="Python"> <img src="https://img.shields.io/badge/Gradio-black?style=flat-square&amp;logo=gradio" alt="Gradio"> <img src="https://img.shields.io/badge/Transformers-black?style=flat-square&amp;logo=transformers" alt="Transformers"> <img src="https://img.shields.io/badge/LLM-black?style=flat-square&amp;logo=artificial-intelligence" alt="LLM"> |
-| <a href="https://github.com/muhammad-fiaz/finetune-web-ui">finetune-web-ui</a> | <img src="https://img.shields.io/github/stars/muhammad-fiaz/finetune-web-ui?style=flat-square&amp;labelColor=black" alt="Stars"> | <img src="https://img.shields.io/badge/Unsloth-black?style=flat-square&amp;logo=unsloth" alt="Unsloth"> <img src="https://img.shields.io/badge/Python-black?style=flat-square&amp;logo=python" alt="Python"> <img src="https://img.shields.io/badge/Gradio-black?style=flat-square&amp;logo=gradio" alt="Gradio"> <img src="https://img.shields.io/badge/Transformers-black?style=flat-square&amp;logo=transformers" alt="Transformers"> <img src="https://img.shields.io/badge/LLM-black?style=flat-square&amp;logo=artificial-intelligence" alt="LLM"> <img src="https://img.shields.io/badge/Triton-black?style=flat-square&amp;logo=triton" alt="Triton"> |
-| <a href="https://github.com/muhammad-fiaz/gpt">GPT</a> | <img src="https://img.shields.io/github/stars/muhammad-fiaz/gpt?style=flat-square&amp;labelColor=black" alt="Stars"> | <img src="https://img.shields.io/badge/Python-black?style=flat-square&amp;logo=python" alt="Python"> <img src="https://img.shields.io/badge/Numpy-black?style=flat-square&amp;logo=numpy" alt="Numpy"> <img src="https://img.shields.io/badge/Transformers-black?style=flat-square&amp;logo=transformers" alt="Transformers"> <img src="https://img.shields.io/badge/PyTorch-black?style=flat-square&amp;logo=pytorch" alt="PyTorch"> |
-
-</td></tr>
-<tr><th>Mobile Application Projects</th></tr>
-<tr><td>
-
-| Title | Stars | Technologies |
-|-------|-------|--------------|
-| <a href="https://github.com/muhammad-fiaz/FZPlayer">FZPlayer</a> | <img src="https://img.shields.io/github/stars/muhammad-fiaz/FZPlayer?style=flat-square&amp;labelColor=black" alt="Stars"> | <img src="https://img.shields.io/badge/Java-black?style=flat-square&amp;logo=java" alt="Java"> <img src="https://img.shields.io/badge/JetBrains-black?style=flat-square&amp;logo=jetbrains" alt="JetBrains"> |
-
-</td></tr>
-<tr><th>Cross-Platform Projects</th></tr>
-<tr><td>
-
-| Title | Stars | Technologies |
-|-------|-------|--------------|
-| <a href="https://github.com/muhammad-fiaz/QuizApp-Flutter">QuizApp-Flutter</a> | <img src="https://img.shields.io/github/stars/muhammad-fiaz/QuizApp-Flutter?style=flat-square&amp;labelColor=black" alt="Stars"> | <img src="https://img.shields.io/badge/Flutter-black?style=flat-square&amp;logo=flutter" alt="Flutter"> |
-| <a href="https://github.com/muhammad-fiaz/MaaagicUI">Maaagic UI</a> | <img src="https://img.shields.io/github/stars/muhammad-fiaz/MaaagicUI?style=flat-square&amp;labelColor=black" alt="Stars"> | <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&amp;logo=nextdotjs" alt="Next.js"> <img src="https://img.shields.io/badge/TypeScript-black?style=flat-square&amp;logo=typescript" alt="TypeScript"> <img src="https://img.shields.io/badge/Rust-black?style=flat-square&amp;logo=rust" alt="Rust"> <img src="https://img.shields.io/badge/Tauri-black?style=flat-square&amp;logo=tauri" alt="Tauri"> |
-| <a href="https://github.com/muhammad-fiaz/WhatsApp-Flutter">WhatsApp-Flutter</a> | <img src="https://img.shields.io/github/stars/muhammad-fiaz/WhatsApp-Flutter?style=flat-square&amp;labelColor=black" alt="Stars"> | <img src="https://img.shields.io/badge/Flutter-black?style=flat-square&amp;logo=flutter" alt="Flutter"> |
-| <a href="https://github.com/muhammad-fiaz/mCloudApp">mCloudApp</a> | <img src="https://img.shields.io/github/stars/muhammad-fiaz/mCloudApp?style=flat-square&amp;labelColor=black" alt="Stars"> | <img src="https://img.shields.io/badge/Flutter-black?style=flat-square&amp;logo=flutter" alt="Flutter"> |
-| <a href="https://github.com/muhammad-fiaz/calculator">Calculator</a> | <img src="https://img.shields.io/github/stars/muhammad-fiaz/calculator?style=flat-square&amp;labelColor=black" alt="Stars"> | <img src="https://img.shields.io/badge/Flutter-black?style=flat-square&amp;logo=flutter" alt="Flutter"> |
-| <a href="https://github.com/muhammad-fiaz/FuzzApp">Fuzz App</a> | <img src="https://img.shields.io/github/stars/muhammad-fiaz/FuzzApp?style=flat-square&amp;labelColor=black" alt="Stars"> | <img src="https://img.shields.io/badge/Flutter-black?style=flat-square&amp;logo=flutter" alt="Flutter"> |
-
-</td></tr>
-<tr><th>Package/Library Projects</th></tr>
-<tr><td>
-
-| Title | Stars | Technologies |
-|-------|-------|--------------|
-| <a href="https://github.com/muhammad-fiaz/logly">Logly</a> | <img src="https://img.shields.io/github/stars/muhammad-fiaz/logly?style=flat-square&amp;labelColor=black" alt="Stars"> | <img src="https://img.shields.io/badge/Python-black?style=flat-square&amp;logo=python" alt="Python"> |
-| <a href="https://github.com/muhammad-fiaz/logly-rs">Logly-RS</a> | <img src="https://img.shields.io/github/stars/muhammad-fiaz/logly-rs?style=flat-square&amp;labelColor=black" alt="Stars"> | <img src="https://img.shields.io/badge/Rust-black?style=flat-square&amp;logo=rust" alt="Rust"> |
-| <a href="https://github.com/muhammad-fiaz/create-nextjs-app">Next.js Starter Boilerplate</a> | <img src="https://img.shields.io/github/stars/muhammad-fiaz/create-nextjs-app?style=flat-square&amp;labelColor=black" alt="Stars"> | <img src="https://img.shields.io/badge/TypeScript-black?style=flat-square&amp;logo=typescript" alt="TypeScript"> <img src="https://img.shields.io/badge/Tailwind%20CSS-black?style=flat-square&amp;logo=tailwindcss" alt="Tailwind CSS"> <img src="https://img.shields.io/badge/ESLint-black?style=flat-square&amp;logo=eslint" alt="ESLint"> |
-| <a href="https://github.com/muhammad-fiaz/CheckVersions">CheckVersions</a> | <img src="https://img.shields.io/github/stars/muhammad-fiaz/CheckVersions?style=flat-square&amp;labelColor=black" alt="Stars"> | <img src="https://img.shields.io/badge/Python-black?style=flat-square&amp;logo=python" alt="Python"> <img src="https://img.shields.io/badge/PyPI-black?style=flat-square&amp;logo=pypi" alt="PyPI"> |
-| <a href="https://github.com/muhammad-fiaz/Setups-Python">Setups Python</a> | <img src="https://img.shields.io/github/stars/muhammad-fiaz/Setups-Python?style=flat-square&amp;labelColor=black" alt="Stars"> | <img src="https://img.shields.io/badge/Python-black?style=flat-square&amp;logo=python" alt="Python"> <img src="https://img.shields.io/badge/PyPI-black?style=flat-square&amp;logo=pypi" alt="PyPI"> |
-| <a href="https://github.com/muhammad-fiaz/Keepsafe">Keepsafe</a> | <img src="https://img.shields.io/github/stars/muhammad-fiaz/Keepsafe?style=flat-square&amp;labelColor=black" alt="Stars"> | <img src="https://img.shields.io/badge/Python-black?style=flat-square&amp;logo=python" alt="Python"> <img src="https://img.shields.io/badge/PyPI-black?style=flat-square&amp;logo=pypi" alt="PyPI"> |
-| <a href="https://github.com/muhammad-fiaz/pywebflow">pywebflow</a> | <img src="https://img.shields.io/github/stars/muhammad-fiaz/pywebflow?style=flat-square&amp;labelColor=black" alt="Stars"> | <img src="https://img.shields.io/badge/FastAPI-black?style=flat-square&amp;logo=fastapi" alt="FastAPI"> <img src="https://img.shields.io/badge/Python-black?style=flat-square&amp;logo=python" alt="Python"> <img src="https://img.shields.io/badge/React-black?style=flat-square&amp;logo=react" alt="React"> <img src="https://img.shields.io/badge/ReactFlow-black?style=flat-square&amp;logo=reactflow" alt="ReactFlow"> |
-
-</td></tr>
-</table>
-
-  <p>For more information, check out the <a href="https://github.com/muhammad-fiaz?tab=repositories" target="_blank">Repositories</a>.</p>
-
-</div>
-
-</div>
 <div align="center">
   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 
