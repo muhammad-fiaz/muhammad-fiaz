@@ -123,12 +123,12 @@ Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create ne
 <p  style="animation: fadein 2s;">
   <br>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammad-fiaz&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4"  alt="GitHub Trophies"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammad-fiaz&theme=tokyonight"
+     alt="GitHub Profile Summary"/>
 </p>
   <div>
-    <a href="https://github.com/muhammad-fiaz">
-      <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=muhammad-fiaz&theme=tokyonight" alt="GitHub Streak" style="margin-top: 20px;"/>
-    </a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=muhammad-fiaz&theme=tokyonight" alt="GitHub Streak" /></a>
+
   </div>
   <br>
 <picture>
