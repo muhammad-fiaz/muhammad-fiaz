@@ -40,7 +40,7 @@
 
 <div align="center">   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="left"/>
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="right" alt="flame"/>
-  <h2> 😎 Self-taught and passionate about coding! </h2><br>
+  <h2> 😎 About Me </h2><br>
 <br>
 </div>
 
@@ -59,7 +59,7 @@ Hey there! 👋 I'm Muhammad Fiaz, a Founder, Entrepreneur, Full Stack Developer
 <div align="center">
   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="left"/>
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="right"/>
-  <h2> 🐱 Pets!!! </h2><br>
+  <h2> 🐱 My Companions </h2><br>
 <br>
 <a href="https://github.com/muhammad-fiaz">
   <img src="https://render.gitanimals.org/lines/{muhammad-fiaz}" width="800" height="300"/>
@@ -71,7 +71,7 @@ Hey there! 👋 I'm Muhammad Fiaz, a Founder, Entrepreneur, Full Stack Developer
 <div align="center">
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="left"/>
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="right"/>
-  <h2> ⭐ My Open-Source Badges </h2><br>
+  <h2> 🎖️ Open Source Achievements </h2><br>
 <br>
   
 [![An image of @muhammadfiaz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/muhammadfiaz)](https://holopin.io/@muhammadfiaz)
@@ -84,7 +84,7 @@ Hey there! 👋 I'm Muhammad Fiaz, a Founder, Entrepreneur, Full Stack Developer
 <div align="center">
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="left"/>
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="right"/>
-  <h2> 😎 My DevCard </h2><br>
+  <h2> 🆔 Developer Card </h2><br>
 <br>
 <a href="https://app.daily.dev/muhammadfiaz"><img src="https://api.daily.dev/devcards/v2/JVyK3ICBzKPdM0rcDj1o4.png?type=wide&r=vde" width="652" alt="Muhammad Fiaz's Dev Card"/></a>  
 </div> 
@@ -98,7 +98,7 @@ Hey there! 👋 I'm Muhammad Fiaz, a Founder, Entrepreneur, Full Stack Developer
 
   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="left"/>
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="right"/>
-  <h2> 🔥 My Tech Stacks! </h2><br>
+  <h2> � Technology Stack </h2><br>
 <br>
 
 
@@ -118,7 +118,7 @@ Hey there! 👋 I'm Muhammad Fiaz, a Founder, Entrepreneur, Full Stack Developer
 <div align="center">
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="left"/>
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="right"/>
-  <h2> 🏆 My Github Stats </h2><br>
+  <h2> 📊 GitHub Analytics </h2><br>
 
 
 <p  style="animation: fadein 2s;">
@@ -182,7 +182,7 @@ Hey there! 👋 I'm Muhammad Fiaz, a Founder, Entrepreneur, Full Stack Developer
   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="right" alt="flame"/>
 
 
-  <h2> <strong> 👨‍💻 My Works Stats </strong></h2>
+  <h2> 👨‍💻 Work Activity </h2>
   <br>
 
 
@@ -199,7 +199,7 @@ Hey there! 👋 I'm Muhammad Fiaz, a Founder, Entrepreneur, Full Stack Developer
   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="left"/>
   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="right"/>
 
-  <h2> <strong>✍️ Random Dev Quote </strong></h2>
+  <h2> 💡 Daily Inspiration </h2>
 <p style="animation: fadein 2s;">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </p>
@@ -211,7 +211,7 @@ Hey there! 👋 I'm Muhammad Fiaz, a Founder, Entrepreneur, Full Stack Developer
   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="left"/>
   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="right"/>
 
-  <h2> <strong> 🌟 Your support can make a difference! Consider donating❤️</strong></h2>
+  <h2> ❤️ Support My Work </h2>
   <br>
 
   <a href="https://github.com/sponsors/muhammad-fiaz">
@@ -238,7 +238,7 @@ Hey there! 👋 I'm Muhammad Fiaz, a Founder, Entrepreneur, Full Stack Developer
   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="left"/>
   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="right"/>
 
- <h2> <strong> 📢 Join Our Squad for the latest developer news!</strong></h2>
+ <h2> 📢 Join the Community </h2>
   <br>
   <a href="https://dly.to/LQm0vGkFCsi">
     <img src="https://img.shields.io/badge/Join_Squad-%2300C4CC.svg?&style=for-the-badge&logo=daily.dev&logoColor=white" alt="Join daily.dev">
