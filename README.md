@@ -45,13 +45,13 @@
 </div>
 
 <img align="right" src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/d9e4b62b-5878-4d64-a362-bce0b027ed03" height="560px" alt="pixel city image">
-<p style="animation: fadein 2s; font-size: medium">
+<p style="animation: fadein 2s; font-size: medium; text-align: left">
 Hey there! 👋 I'm Muhammad Fiaz, a Founder, Entrepreneur, Full Stack Developer, Freelancer & Full-Time Open-Sourcerer who creates digital experiences that (usually) work on the first try. Welcome to my corner of the internet ✌️.<br><br>
-- ✨ **Builder at Heart:** I focus on creating innovative apps and developer-first tools. I treat code like poetry and architecture like a fortress—building robust systems is just how I relax 😄.<br>
-- 📚 **AI Enthusiast:** Currently teaching computers how to think by exploring Machine Learning (ML) and AI. It's like magic, but with more linear algebra and neural networks.<br>
-- 🤝 **Collaboration Ready:** Open source is my jam. If you have a project that needs a spark of creativity or an extra pair of dev hands, I'm ready to jump in.<br>
-- 🔧 **Tech Versatile:** I speak multiple languages—Python, JavaScript, Rust, and more. I can adapt to your tech stack faster than you can say "npm install".<br>
-- 📬 **Let's Talk:** Found something interesting? Want to build the future? Don't hesitate to reach out. Let's create something awesome (and error-free) together!<br>
+- ✨ <b>Builder at Heart:</b> I focus on creating innovative apps and developer-first tools. I treat code like poetry and architecture like a fortress—building robust systems is just how I relax 😄.<br>
+- 📚 <b>AI Enthusiast:</b> Currently teaching computers how to think by exploring Machine Learning (ML) and AI. It's like magic, but with more linear algebra and neural networks.<br>
+- 🤝 <b>Collaboration Ready:</b> Open source is my jam. If you have a project that needs a spark of creativity or an extra pair of dev hands, I'm ready to jump in.<br>
+- 🔧 <b>Tech Versatile:</b> I speak multiple languages—Python, JavaScript, Rust, and more. I can adapt to your tech stack faster than you can say "npm install".<br>
+- 📬 <b>Let's Talk:</b> Found something interesting? Want to build the future? Don't hesitate to reach out. Let's create something awesome (and error-free) together!<br>
   <br>Feel free to explore my repos or <a href="mailto:contact@muhammadfiaz.com" >get in touch</a> for business inquiries & collaborations!<br>
 </p>
 
