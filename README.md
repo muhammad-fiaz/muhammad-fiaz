@@ -46,12 +46,13 @@
 
 <img align="right" src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/d9e4b62b-5878-4d64-a362-bce0b027ed03" height="560px" alt="pixel city image">
 <p style="animation: fadein 2s; font-size: medium">
-Hey there! 👋 I'm Muhammad Fiaz, a Full Stack developer who loves to create new things. I have uploaded some pretty cool stuff, so make sure to check it out on my GitHub profile✌️.<br><br>- ✨ I spend my spare time building and developing free Apps and Web Applications because I want to continue growing and honing my skills 😄.
-  <br>- 📚 I'm currently focused on learning and exploring the exciting fields of Machine Learning (ML) and Artificial Intelligence (AI), including neural networks and other related topics.
-  <br>- 🤝 I'm always excited to collaborate with others and contribute to different projects. If you have a project that needs an extra set of hands or fresh ideas, feel free to reach out to me!
-  <br>- 🔧 I have experience working with various programming languages and technologies, ensuring that I can adapt and contribute effectively to your project's tech stack.
-  <br>- 📬 If you come across anything interesting in my projects or have a project you'd like me to collaborate on, please don't hesitate to get in touch. Let's create something awesome together!<br>
-  <br>Feel free to explore my projects and <a href="mailto:contact@muhammadfiaz.com" > get in touch</a> for collaborations!<br>
+Hey there! 👋 I'm Muhammad Fiaz, a Founder, Entrepreneur, Full Stack Developer, Freelancer & Full-Time Open-Sourcerer who creates digital experiences that (usually) work on the first try. Welcome to my corner of the internet ✌️.<br><br>
+- ✨ **Builder at Heart:** I focus on creating innovative apps and developer-first tools. I treat code like poetry and architecture like a fortress—building robust systems is just how I relax 😄.<br>
+- 📚 **AI Enthusiast:** Currently teaching computers how to think by exploring Machine Learning (ML) and AI. It's like magic, but with more linear algebra and neural networks.<br>
+- 🤝 **Collaboration Ready:** Open source is my jam. If you have a project that needs a spark of creativity or an extra pair of dev hands, I'm ready to jump in.<br>
+- 🔧 **Tech Versatile:** I speak multiple languages—Python, JavaScript, Rust, and more. I can adapt to your tech stack faster than you can say "npm install".<br>
+- 📬 **Let's Talk:** Found something interesting? Want to build the future? Don't hesitate to reach out. Let's create something awesome (and error-free) together!<br>
+  <br>Feel free to explore my repos or <a href="mailto:contact@muhammadfiaz.com" >get in touch</a> for business inquiries & collaborations!<br>
 </p>
 
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
