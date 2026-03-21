@@ -190,7 +190,8 @@ Hey there! 👋 I'm Muhammad Fiaz, a Founder, Entrepreneur, Full Stack Developer
 
 <br>
 
-[![Muhammad Fiaz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhammadfiaz&theme=tokyonight)](https://github.com/muhammad-fiaz/)
+[![Muhammad Fiaz's wakatime stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=30609&api_domain=hackatime.hackclub.com&theme=default&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
+)](https://hackatime.hackclub.com/@muhammadfiaz)
 </div>
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 
