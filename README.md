@@ -46,13 +46,19 @@
 
 <img align="right" src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/d9e4b62b-5878-4d64-a362-bce0b027ed03" height="560px" alt="pixel city image">
 <p style="animation: fadein 2s; font-size: medium; text-align: left">
-Hey there! 👋 I'm Muhammad Fiaz, a Founder, Entrepreneur, Full Stack Developer, Freelancer & Full-Time Open-Sourcerer who creates digital experiences that (usually) work on the first try. Welcome to my corner of the internet ✌️.<br><br>
-- ✨ <b>Builder at Heart:</b> I focus on creating innovative apps and developer-first tools. I treat code like poetry and architecture like a fortress—building robust systems is just how I relax 😄.<br>
-- 📚 <b>AI Enthusiast:</b> Currently teaching computers how to think by exploring Machine Learning (ML) and AI. It's like magic, but with more linear algebra and neural networks.<br>
-- 🤝 <b>Collaboration Ready:</b> Open source is my jam. If you have a project that needs a spark of creativity or an extra pair of dev hands, I'm ready to jump in.<br>
-- 🔧 <b>Tech Versatile:</b> I speak multiple languages—Python, JavaScript, Rust, and more. I can adapt to your tech stack faster than you can say "npm install".<br>
-- 📬 <b>Let's Talk:</b> Found something interesting? Want to build the future? Don't hesitate to reach out. Let's create something awesome (and error-free) together!<br>
-  <br>Feel free to explore my repos or <a href="mailto:contact@muhammadfiaz.com" >get in touch</a> for business inquiries & collaborations!<br>
+
+Hello! 👋 I'm <strong>Muhammad Fiaz</strong>, a Founder, Full-Stack Developer, Open Source Contributor, and Entrepreneur passionate about building scalable software, developer tools, and modern web applications.<br><br>
+
+- 🚀 <strong>Builder:</strong> I design and develop open-source projects, developer tools, and scalable applications with a focus on performance, reliability, and maintainability.<br>
+
+- 🤖 <strong>AI & Systems:</strong> I enjoy exploring artificial intelligence, machine learning, systems programming, and high-performance software engineering.<br>
+
+- 🦀 <strong>Core Technologies:</strong> Experienced with <strong>Rust, Zig, TypeScript, Python, Go</strong>, and modern web technologies.<br>
+
+- 🤝 <strong>Open Source:</strong> I actively contribute to open-source software and enjoy collaborating with developers on meaningful projects.<br>
+
+- 📬 <strong>Let's Connect:</strong> I'm open to collaborations, freelance opportunities, and discussions about technology, open source, and software engineering. Feel free to reach out at <a href="mailto:contact@muhammadfiaz.com">contact@muhammadfiaz.com</a>.<br>
+
 </p>
 
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
@@ -81,24 +87,12 @@ Hey there! 👋 I'm Muhammad Fiaz, a Founder, Entrepreneur, Full Stack Developer
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 
 <br>
-<div align="center">
-<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="left"/>
-<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="right"/>
-  <h2> 🆔 Developer Card </h2><br>
-<br>
-<a href="https://app.daily.dev/muhammadfiaz"><img src="https://api.daily.dev/devcards/v2/JVyK3ICBzKPdM0rcDj1o4.png?type=wide&r=vde" width="652" alt="Muhammad Fiaz's Dev Card"/></a>  
-</div> 
-<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 
-<br>
-<div align="center">
-  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/88d74967-e5e4-4423-836a-7f3c1638e5b4" alt="pixel guy using computer" width="100%" /><br>
-</div>
 <div align="center">
 
   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="left"/>
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="right"/>
-  <h2> � Technology Stack </h2><br>
+  <h2> 🧑‍💻 Technology Stack </h2><br>
 <br>
 
 
@@ -106,11 +100,6 @@ Hey there! 👋 I'm Muhammad Fiaz, a Founder, Entrepreneur, Full Stack Developer
 
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 
-</div>
-
-<div align="center">
-
-  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3fe61233-f76c-4fd8-aae8-001549b75839" alt="pixel city night" width="100%" /><br>
 </div>
 
 
@@ -154,13 +143,11 @@ Hey there! 👋 I'm Muhammad Fiaz, a Founder, Entrepreneur, Full Stack Developer
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     width="36%"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-fiaz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-fiaz&layout=compact&theme=tokyonight" alt="Top Languages" width="40%" />
 </picture>
 
 <br/>
-<p  style="animation: fadein 2s;">
-  <img src="https://github-contributor-stats.vercel.app/api?username=muhammad-fiaz&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="48%" />
-</p>
+
 
 </div> 
 
@@ -170,29 +157,6 @@ Hey there! 👋 I'm Muhammad Fiaz, a Founder, Entrepreneur, Full Stack Developer
 
 </div>
 
-
-<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
-
-  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/b82b27ff-26ed-498b-b8ca-bd575e5c62a9" width="100%" />
-
-<div align="center">
-  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
-
-  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="left" alt="flame"/>
-  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="right" alt="flame"/>
-
-
-  <h2> 👨‍💻 Work Activity </h2>
-  <br>
-
-
-
-
-<br>
-
-[![Muhammad Fiaz's wakatime stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=30609&api_domain=hackatime.hackclub.com&theme=default&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
-)](https://hackatime.hackclub.com/@muhammadfiaz)
-</div>
 <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 
 
@@ -218,39 +182,10 @@ Hey there! 👋 I'm Muhammad Fiaz, a Founder, Entrepreneur, Full Stack Developer
   <a href="https://github.com/sponsors/muhammad-fiaz">
     <img src="https://img.shields.io/badge/Sponsor-%231EAEDB.svg?&style=for-the-badge&logo=GitHub-Sponsors&logoColor=white" alt="Sponsor muhammad-fiaz">
   </a>
-  <a href="https://ko-fi.com/muhammadfiaz">
-    <img src="https://img.shields.io/badge/Ko--fi-%23F16061.svg?&style=for-the-badge&logo=Ko-fi&logoColor=white" alt="Ko-fi">
-  </a>
-</div>
+
+  </div>
 <br>
-<div align="center">
 
-  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/d1f6cc5c-2953-4981-b09a-95e6c8919933" width="48%" /> 
-
-  <br>
-
-  <p><strong>Technology, innovation, and collaboration drive me forward! 🚀 I love meeting new people, sharing ideas, and working on exciting projects. If you ever want to chat, discuss ideas, or collaborate, feel free to reach out—I'd love to connect! 😊</strong></p>
-
-
-</div>
-<div align="center">
-<img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
-
-  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="left"/>
-  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="right"/>
-
- <h2> 📢 Join the Community </h2>
-  <br>
-  <a href="https://dly.to/LQm0vGkFCsi">
-    <img src="https://img.shields.io/badge/Join_Squad-%2300C4CC.svg?&style=for-the-badge&logo=daily.dev&logoColor=white" alt="Join daily.dev">
-  </a>
-<br>
-<br>
-<br>
-  <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/b1a50403-c00b-4159-8972-8812b77094e1" width="48%" />
-
-
-</div>
 <br>
   <img src="https://github.com/muhammad-fiaz/muhammad-fiaz/assets/75434191/fd716229-fbd9-46d3-8ccd-3697ffe7e41a" width="100%" alt="marginline"/>
 <br>
